@@ -576,7 +576,9 @@
         }
         /*ipsum-dolor-section*/
         /*top-footer-section*/
-        .top-footer-section {}
+        .top-footer-section {
+            padding: 50px 0px;
+        }
         .top-footer {}
         .pat.one.flot-33 {}
         .pat.tow.flot-33 {}
@@ -676,7 +678,9 @@
         }
         /*ipsum-dolor-section*/
         /*top-footer-section*/
-        .top-footer-section {}
+        .top-footer-section {
+            padding: 50px 0px;
+        }
         .top-footer {}
         .pat.one.flot-33 {}
         .pat.tow.flot-33 {}
