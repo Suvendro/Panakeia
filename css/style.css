@@ -548,6 +548,9 @@
             top: -2%;
         }
         .div-email {}
+        .div-email input{
+            width: 100%;
+         }
         /*newsletter-section*/
         /*ipsum-dolor-section*/
         .ipsum-dolor-section {
@@ -650,6 +653,9 @@
             top: -2%;
         }
         .div-email {}
+         .div-email input{
+            width: 100%;
+         }
         /*newsletter-section*/
         /*ipsum-dolor-section*/
         .ipsum-dolor-section {
